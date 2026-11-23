@@ -1,0 +1,25 @@
+# Datasets (licensed by their authors, never commit)
+dataset/
+RAF DB Dataset.zip
+*.zip
+
+# Everything the notebook writes locally (copy the small tables and figures you want to publish into results/)
+NexiEmotionNet_results/
+emotion_model.pt
+
+# Model weights and checkpoints
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

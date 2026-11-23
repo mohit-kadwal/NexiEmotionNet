@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+type: software
+title: "NexiEmotionNet: A Lightweight Channel-Spatial Attention Convolutional Neural Network for Real-Time Facial Emotion Recognition"
+authors:
+  - family-names: Kadwal
+    given-names: Mohit
+    affiliation: "Prestige Institute of Engineering Management and Research, Indore, India"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD here
+  - family-names: Ingle
+    given-names: Maya
+    affiliation: "SCSIT, DAVV Indore, India"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add co-author's ORCID iD here
+repository-code: "https://github.com/mohit-kadwal/NexiEmotionNet"
+license: MIT
+version: 1.0.0
+keywords:
+  - facial emotion recognition
+  - CBAM
+  - focal loss
+  - lightweight CNN
+  - RAF-DB
+# After the paper is published, add a preferred-citation block with the journal, year and DOI,
+# and add the Zenodo DOI of release v1.0.0 as `doi:`.
